@@ -1,0 +1,588 @@
+2 Nov 2019, 05:36:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 05:36:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 05:39:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 05:39:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 05:44:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 05:44:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 05:47:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 05:47:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 05:52:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 05:52:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 05:55:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 05:55:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:00:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:00:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:03:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:03:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:08:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:08:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:11:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:11:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:16:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:16:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:19:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:19:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:24:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:24:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:27:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:27:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:32:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:32:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:35:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:35:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:40:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:40:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:43:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:43:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:48:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:48:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:51:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:51:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:56:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:56:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 06:59:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 06:59:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:04:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:04:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:07:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:07:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:12:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:12:37 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:15:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:15:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:20:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:20:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:23:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:23:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:28:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:28:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:31:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:31:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:36:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:36:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:39:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:39:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:44:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:44:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:47:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:47:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:52:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:52:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 07:55:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 07:55:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:00:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:00:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:03:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:03:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:08:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:08:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:11:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:11:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:16:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:16:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:19:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:19:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:24:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:24:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:27:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:27:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:32:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:32:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:35:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:35:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:40:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:40:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:43:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:43:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:48:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:48:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:51:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:51:10 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:56:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:56:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 08:59:11 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 08:59:11 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 09:04:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 09:04:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 09:07:11 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 09:07:11 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 09:12:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection receive
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   RECEIVED:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FD 06                                        ...              ...             
+2 Nov 2019, 09:12:38 AM UTC amadeus.tn3270.com.TN3270TelnetConnection writeChannel
+FINEST: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   SENT:
+         +-------------------- HEX --------------------+ +--- ASCII ----+ +--- EBCDIC ---+
+   0x000 FF FC 06                                        ...              ...             
+2 Nov 2019, 09:14:53 AM UTC amadeus.tn3270.com.TN3270TelnetConnection processException
+WARNING: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23] [COM701]
+   Temporary Connection Error - Your work will be lost. Retry later.
+   Unable to read on the telnet socket.
+   The host might be down or in error.
+java.net.SocketException: Software caused connection abort: recv failed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at amadeus.tn3270.com.TN3270TelnetConnection.processReadChannel(TN3270TelnetConnection.java:485)
+	at amadeus.tn3270.com.TN3270TelnetConnection.access$500(TN3270TelnetConnection.java:36)
+	at amadeus.tn3270.com.TN3270TelnetConnection$Process.run(TN3270TelnetConnection.java:167)
+	at java.lang.Thread.run(Unknown Source)
+2 Nov 2019, 09:14:53 AM UTC amadeus.tn3270.com.TN3270TelnetConnection processException
+WARNING: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23] [COM701]
+   Temporary Connection Error - Your work will be lost. Retry later.
+   Unable to read on the telnet socket.
+   The host might be down or in error.
+java.net.SocketException: Software caused connection abort: recv failed
+	at java.net.SocketInputStream.socketRead0(Native Method)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at java.net.SocketInputStream.read(Unknown Source)
+	at amadeus.tn3270.com.TN3270TelnetConnection.processReadChannel(TN3270TelnetConnection.java:485)
+	at amadeus.tn3270.com.TN3270TelnetConnection.access$500(TN3270TelnetConnection.java:36)
+	at amadeus.tn3270.com.TN3270TelnetConnection$Process.run(TN3270TelnetConnection.java:167)
+	at java.lang.Thread.run(Unknown Source)
+2 Nov 2019, 09:14:53 AM UTC amadeus.tn3270.com.TN3270TelnetConnection closeChannel
+INFO: Session 2 [09CC0CE6@NCETN3270-TPFT-S.muc.amadeus.net:23]
+   CHANNEL CLOSED.
+2 Nov 2019, 09:14:53 AM UTC amadeus.tn3270.com.TN3270TelnetConnection closeChannel
+INFO: Session 1 [09CC0A7B@NCETN3270-TPFP-S.muc.amadeus.net:23]
+   CHANNEL CLOSED.
+2 Nov 2019, 09:14:53 AM UTC amadeus.tn3270.com.TN3270TelnetConnection processException
+WARNING: Session 2 [NCETN3270-TPFT-S.muc.amadeus.net:23] [COM700]
+   Invalid Host - Contact your Help Desk.
+2 Nov 2019, 09:14:53 AM UTC amadeus.tn3270.com.TN3270TelnetConnection processException
+WARNING: Session 1 [NCETN3270-TPFP-S.muc.amadeus.net:23] [COM700]
+   Invalid Host - Contact your Help Desk.
